@@ -29,7 +29,7 @@ public class BillingNO {
         }catch (Exception e){
             System.out.println(e);
         }
-
+// 
     }
 
     static void GetValues(ResultSet s) throws SQLException, IOException {
