@@ -21,6 +21,7 @@ public class Mysql implements Runnable {
     static Set<String> ContainNoSet = new HashSet<String>();
 //    Mysql(Set<String> ContainNoSet ){
 //        this.ContainNoSet = ContainNoSet;
+//        我是注释
 //    }
 
     @Override
